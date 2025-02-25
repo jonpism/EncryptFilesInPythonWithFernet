@@ -77,3 +77,13 @@ pyinstaller --noconsole --onefile --name EncryptAndDecryptFiles --add-data "butt
 ```bash
 cd dist/EncryptAndDecryptFiles.exe
 ```
+
+---
+
+## Contributing to the project
+
+1. Fork the repository and create a new branch (`git checkout -b feature-branch`).
+2. Make your changes and commit them with meaningful commit messages.
+3. Push the changes to your fork and create a pull request.
+4. Ensure your code adheres to the project's coding style and passes tests (if applicable).
+
