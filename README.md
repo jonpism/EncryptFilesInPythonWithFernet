@@ -87,3 +87,7 @@ cd dist/EncryptAndDecryptFiles.exe
 3. Push the changes to your fork and create a pull request.
 4. Ensure your code adheres to the project's coding style and passes tests (if applicable).
 
+---
+
+## License
+This project is licensed under the MIT License.
